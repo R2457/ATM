@@ -1,4 +1,3 @@
-# project1
 /* Mini Project - ATM
 	-> Check Balance
 	-> Cash withdraw
@@ -99,8 +98,6 @@ public:											// public member functions
 
 };
 
-
-/////////////////////////////////////////////////////////////////////////////////////////////
 int main()
 {
 	int choice = 0, enterPIN;		//enterPIN and enterAccountNo. ---> user authentication
